@@ -13,9 +13,9 @@ if is_module_loaded(FILENAME):
     from telegram.ext import CommandHandler, JobQueue, run_async
     from telegram.utils.helpers import escape_markdown
 
-    from DewmiBot import EVENT_LOGS, LOGGER, dispatcher
-    from DewmiBot.modules.helper_funcs.chat_status import user_admin
-    from DewmiBot.modules.sql import log_channel_sql as sql
+    from Avatar import EVENT_LOGS, LOGGER, dispatcher
+    from Avatar.modules.helper_funcs.chat_status import user_admin
+    from Avatar.modules.sql import log_channel_sql as sql
 
     def loggable(func):
         @wraps(func)
