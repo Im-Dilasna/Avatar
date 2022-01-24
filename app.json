@@ -1,5 +1,5 @@
 {
-      "name": "Telegram-Group-Management-Bot-DewmiBot",
+      "name": "Telegram-Group-Management-Bot-Avatar",
       "description": "A Powerful BOT to Make Your Groups Secured and Organized.",
 	  "logo": "https://telegra.ph/file/1ead052789170e712384a.jpg",
       "keywords": [
@@ -7,7 +7,7 @@
          "Groupmanage",
          "Telegram-Group-Management-Bot-DewmiBot"
       ],   
-   "repository": "https://github.com/hirunaofficial/Telegram-Group-Management-Bot-DewmiBot/",
+   "repository": "https://github.com/Dilasnaofficical/test-my",
    "addons": [
       {
          "options": {
