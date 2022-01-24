@@ -88,6 +88,7 @@ Main commands available:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
+START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """
 *Avatar* is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
@@ -238,12 +239,13 @@ def start(update: Update, context: CallbackContext):
                 timeout=60, 
             )
     else:
-        update.effective_message.reply_text(
-            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>".format(
-                uptime
+        update.effective_message.reply_video(
+            START_IMG, caption= "I'm awake already!\n<b>Haven't slept since:</b>: <code>{}</code>".format(
+                uptime            
             ),
             parse_mode=ParseMode.HTML,
         )
+
 
 
 def error_handler(update, context):
