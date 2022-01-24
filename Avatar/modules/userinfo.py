@@ -13,8 +13,8 @@ from telethon import events
 from telethon.tl.functions.channels import GetFullChannelRequest
 from telethon.tl.types import ChannelParticipantsAdmins
 
-import DewmiBot.modules.sql.userinfo_sql as sql
-from DewmiBot import (
+import Avatar.modules.sql.userinfo_sql as sql
+from Avatar import (
     DEMONS,
     DEV_USERS,
     DRAGONS,
