@@ -62,8 +62,16 @@
 ![Contributors](https://contrib.rocks/image?repo=Dilasnaofficical/Avatar)
 
 ## Special Credits
-[ImDilasna] (https://t.me/ImDilasna)-owner and dev
-noob owner and dev
+[ImDilasna] -owner and dev
+
+[noob]-owner and dev
+MAXSUPUN-owner and dev
+
+HIRUN LAKSHAN-owner and dev
+
+[GD HIRUN]-helper 
+
+
 
 
 All other credits mentioned on top of scripts
