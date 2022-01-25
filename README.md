@@ -38,7 +38,7 @@
   <a href="https://github.com/Dilasnaofficical/Avatar/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/SlNinjaTeam"><img src="https://telegra.ph/file/e381a63724b094bbf4456.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/SlNinjaTeam"><img src="https://telegra.ph/file/430a51d113196c7c7fa06.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://github.com/Dilasnaofficical/Avatar/commits/Dilasna"> <img src="https://img.shields.io/github/last-commit/Dilasnaofficical/Avatar?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
   
