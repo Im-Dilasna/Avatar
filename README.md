@@ -1,6 +1,6 @@
-<h1 align="center"><b><b>❤️ Saber ❤️</b></b></h1>
+<h1 align="center"><b><b>❤️Avatar❤️</b></b></h1>
 
-##  Are You Okay Baby I'm [Saber](https://t.me/TheSaberbot) 
+##  Are You Okay Baby I'm Avatar
  
 ## Unmaintained. The new repo of [@TheSaberBot](https://t.me/TheSaberbot) is `private`. 
 
