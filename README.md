@@ -2,7 +2,7 @@
 
 ##  Are You Okay Baby I'm Avatar
  
-## Unmaintained. The new repo of [@TheSaberBot](https://t.me/TheSaberbot) is `private`. 
+## Unmaintained. The new repo of [Avatar](https://t.me/snt_super_ro_bot) is `Good bot`. 
 
 ## ⚡ It is no longer based on this source code. The completely rewritten bot available now on telegram
 
