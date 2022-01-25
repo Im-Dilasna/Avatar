@@ -63,6 +63,7 @@
 
 ## Special Credits
 [ImDilasna] (https://t.me/ImDilasna)-owner and dev
+noob owner and dev
 
 
 All other credits mentioned on top of scripts
