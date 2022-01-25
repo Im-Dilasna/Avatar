@@ -9,7 +9,7 @@ from Avatar.events import register
 from Avatar import telethn as tbot
 
 
-PHOTO = "https://telegra.ph/file/ff2fa22dfa6ae838cc6cd.jpg"
+PHOTO = "https://telegra.ph/file/430a51d113196c7c7fa06.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
