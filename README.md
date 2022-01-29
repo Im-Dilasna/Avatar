@@ -51,33 +51,9 @@
 
 
 
-## Avaiilable on Telegram as [Avatar]()
+## Avaiilable on Telegram as [Alpha]()
 
 
-# ⚡ Support
-<a href="https://t.me/SLninjaTeamchannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/SlNinjaTeam"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-
-![Contributors](https://contrib.rocks/image?repo=Dilasnaofficical/Avatar)
-
-## Special Credits
-[ImDilasna] -owner and dev
-
-[noob]-owner and dev
-
-MAXSUPUN-owner and dev
-
-HIRUN LAKSHAN-owner and dev
-
-[GD HIRUN]-helper 
-
-
-
-
-All other credits mentioned on top of scripts
-
-Anything missing kindly let us know at [SlNinjaTeam](https://t.me/SlNinjaTeam) or simply submit a pull request on the readme.
 
 
 
