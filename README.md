@@ -23,7 +23,9 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-![GitHub](https://img.shields.io/github/license/Imtheekshana126/saber-bot)
+![GitHub](https://img.shields.io/github/license/Dilasnaofficical/Avatar)
+
+
 
 
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/open-book_1f4d6.png">
@@ -47,6 +49,10 @@
 > Thanks to everyone who starred Saber, That is the greatest pleasure we have !
 
 # Deploy to Heroku
+
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilasnaofficical/Avatar)
 
 
 
