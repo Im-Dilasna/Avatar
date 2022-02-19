@@ -46,7 +46,7 @@
   
 </p>
 
-> Thanks to everyone who starred Saber, That is the greatest pleasure we have !
+> Thanks to everyone who starred Avatar, That is the greatest pleasure we have !
 
 # Deploy to Heroku
 
